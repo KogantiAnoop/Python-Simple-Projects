@@ -24,7 +24,7 @@ def getSize(sentence,senSize):
     sen = sentence.split()        #get the length of the sentence in letters 
     for word in sen:
         avgSize += len(word)
-    return avgSize +  + ( senSize - 1)
+    return avgSize + ( senSize - 1)
     
 
 def main():
