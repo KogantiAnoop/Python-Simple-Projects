@@ -120,19 +120,19 @@ def main():
         resultsText.draw(win)
         
         
-        closeMsg = Text(Point(300 * 3 - 100, 350 * 3), "Click anywhere to close")
+        closeMsg = Text(Point(300 * 3 - 100, 350 * 2.75), "Click any key but Return to close")
         closeMsg2 = Text(Point(300 * 3 - 100, 300 * 3), "Click enter to go again")    
         closeMsg.setSize(12)        # Wait for the person to close the window
         closeMsg2.setSize(12)
         closeMsg2.draw(win)
         closeMsg.draw(win)
-        key2 = win.getKey()
-        if key2 != 'Return':
+        key = win.getKey()
+        if key != 'Return':
             break
         resultsText.undraw()
         closeMsg.undraw()
+        closeMsg2.undraw()
     win.close()
-
 main()
 
 
