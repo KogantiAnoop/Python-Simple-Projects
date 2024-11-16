@@ -11,4 +11,4 @@
 
 # Intermediate Projects
 
-- [Type Racing Game](Projects/Type Racing Game/Typing Speed game.py) - A type racer game built using the python graphics library that finds the words per minute and the time taken to write a sentence with a size chosen by the user. Words list was derived from powerlanguage on github and the average size of a word was hard coded but can be optimized based off of the file that is being read through the code
+- [Type Racing Game]() - A type racer game built using the python graphics library that finds the words per minute and the time taken to write a sentence with a size chosen by the user. Words list was derived from powerlanguage on github and the average size of a word was hard coded but can be optimized based off of the file that is being read through the code
