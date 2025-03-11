@@ -13,4 +13,6 @@
 
 - [Type Racing Game](/Projects/Type%20Racing%20Game/Typing%20Speed%20game.py) - A type racer game built using the python graphics library that finds the words per minute and the time taken to write a sentence with a size chosen by the user. Words list was derived from powerlanguage on github and the average size of a word was hard coded but can be optimized based off of the file that is being read through the code
 
-- [City View EECS 12 Lab](Private until 11/23) - A graphical assignment used to portray methods of physics and movement on the python graphics.py library using .move() in an infinite loop. Portrays speed at day and night for cars and other aspects including a text file input method to create the buildings
+- [City View EECS 12 Lab](Projects/EECS12CityLab/hw4.py) - A graphical assignment used to portray methods of physics and movement on the python graphics.py library using .move() in an infinite loop. Portrays speed at day and night for cars and other aspects including a text file input method to create the buildings. Addition of Cyber Truck design is available.
+
+- [City View EECS 12 Lab GameMode]() - A graphical assignment used to implement graphics.py library into a clicker game, which randomly generates a car in specific locations that one clicks to increase their points.
