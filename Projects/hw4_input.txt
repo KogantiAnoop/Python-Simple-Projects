@@ -1,0 +1,10 @@
+0	15	4	25	red
+5	15	8	23	grey
+9	15	12	28	orange
+11	15	15	27	grey
+15	15	18	26	black
+20	15	24	27	grey
+23	15	26	25	red
+28	15	31	26	green
+30	15	34	23	grey
+35	15	38	23	orange
